@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6176b02d-0fd7-4631-b1fa-45734d68abe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/assets/Lato-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/style.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/model/biodata.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/view/FirstScreen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/view/SecondScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/assets/style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/assets/style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/FirstScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/FirstScreen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,34 +78,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="368" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601002840826" />
-    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1601003726433">
+    <state x="614" y="114" key="CommitChangelistDialog2" timestamp="1601008596183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601003726433" />
-    <state width="930" height="506" key="GridCell.Tab.0.bottom" timestamp="1601008258299">
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601008596183" />
+    <state width="907" height="597" key="GridCell.Tab.0.bottom" timestamp="1601025865431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="506" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601008258299" />
-    <state width="930" height="506" key="GridCell.Tab.0.center" timestamp="1601008258299">
+    <state width="907" height="597" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
+    <state width="907" height="597" key="GridCell.Tab.0.center" timestamp="1601025865431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="506" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601008258299" />
-    <state width="930" height="506" key="GridCell.Tab.0.left" timestamp="1601008258299">
+    <state width="907" height="597" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
+    <state width="907" height="597" key="GridCell.Tab.0.left" timestamp="1601025865431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="506" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601008258299" />
-    <state width="930" height="506" key="GridCell.Tab.0.right" timestamp="1601008258299">
+    <state width="907" height="597" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
+    <state width="907" height="597" key="GridCell.Tab.0.right" timestamp="1601025865431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="930" height="506" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601008258299" />
+    <state width="907" height="597" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1601002777692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601002777692" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1600997197989">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1601021878478">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600997197989" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601021878478" />
     <state x="616" y="242" key="run.anything.popup" timestamp="1600869950110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -124,23 +116,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
           <url>file://$PROJECT_DIR$/lib/view/FirstScreen.dart</url>
-          <line>123</line>
+          <line>124</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/view/FirstScreen.dart</url>
-          <line>227</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/view/FirstScreen.dart</url>
-          <line>215</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/view/FirstScreen.dart</url>
-          <line>214</line>
-          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

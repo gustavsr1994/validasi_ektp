@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:app_validasi_ektp/assets/style.dart';
 import 'package:app_validasi_ektp/model/biodata.dart';
+import 'package:app_validasi_ektp/view/SecondScreen.dart';
 import 'package:datetime_picker_formfield/datetime_picker_formfield.dart';
 import 'package:firebase_ml_vision/firebase_ml_vision.dart';
 import 'package:flutter/cupertino.dart';
@@ -219,6 +220,7 @@ class _FirstScreenState extends State<FirstScreen> {
       if (len != 16) {
         return "eKTP invalid.";
       } else {
+
         controller.nik = nik;
       }
     }
@@ -237,6 +239,9 @@ class _FirstScreenState extends State<FirstScreen> {
     if (_formKey.currentState.validate() || _valGender != null) {
       controller.name = _nameController.text;
       print('Success Insert');
+      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) {
+        return SecondScreen();
+      }));
     } else {
       Fluttertoast.showToast(
           msg: "Please, choice your sex",

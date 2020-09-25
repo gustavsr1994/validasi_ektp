@@ -152,9 +152,9 @@ class _SecondScreenState extends State<SecondScreen> {
       String month = nik.substring(8, 10);
       String year = nik.substring(10, 12);
       if (dates > 40) {
-        if ((dates - 40) == resultBirtDate[2] &&
+        if ((dates-40) == int.parse(resultBirtDate[2]) &&
             month == resultBirtDate[1] &&
-            year == resultBirtDate[0]) {
+            year == resultBirtDate[0].substring(2,4)) {
           if (sex == "Wanita") {
             return "eKTP Valid";
           }

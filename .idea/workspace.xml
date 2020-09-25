@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6176b02d-0fd7-4631-b1fa-45734d68abe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/view/SecondScreen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/assets/style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/assets/style.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/view/FirstScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/FirstScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/SecondScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/SecondScreen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,22 +80,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1601008596183" />
-    <state width="907" height="597" key="GridCell.Tab.0.bottom" timestamp="1601025865431">
+    <state width="907" height="581" key="GridCell.Tab.0.bottom" timestamp="1601027895523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="597" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
-    <state width="907" height="597" key="GridCell.Tab.0.center" timestamp="1601025865431">
+    <state width="907" height="581" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601027895523" />
+    <state width="907" height="581" key="GridCell.Tab.0.center" timestamp="1601027895523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="597" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
-    <state width="907" height="597" key="GridCell.Tab.0.left" timestamp="1601025865431">
+    <state width="907" height="581" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601027895523" />
+    <state width="907" height="581" key="GridCell.Tab.0.left" timestamp="1601027895522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="597" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
-    <state width="907" height="597" key="GridCell.Tab.0.right" timestamp="1601025865431">
+    <state width="907" height="581" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601027895522" />
+    <state width="907" height="581" key="GridCell.Tab.0.right" timestamp="1601027895523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="907" height="597" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601025865431" />
+    <state width="907" height="581" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601027895523" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1601002777692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,6 +116,11 @@
           <url>file://$PROJECT_DIR$/lib/view/FirstScreen.dart</url>
           <line>124</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/view/SecondScreen.dart</url>
+          <line>154</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
